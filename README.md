@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ayushipandya1285
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
+Hello I am Ayushi..!
 <!---
 ayushipandya1285/ayushipandya1285 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+A Passionate CSE undergrad with keen interest in Competitive programming, DSA, AI & ML , Data Science.
